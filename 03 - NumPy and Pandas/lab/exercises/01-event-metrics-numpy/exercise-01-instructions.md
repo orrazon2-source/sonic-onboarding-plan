@@ -99,7 +99,7 @@ Events exceeding SLA thresholds need investigation.
 1. Find all events slower than 500ms
 2. Find all events slower than 1000ms
 3. Count how many fall into each category
-
+ 
 **What to expect:**
 - ~5% of events > 500ms (roughly matches "95% < 500ms")
 - ~1% of events > 1000ms (roughly matches "99% < 1000ms")

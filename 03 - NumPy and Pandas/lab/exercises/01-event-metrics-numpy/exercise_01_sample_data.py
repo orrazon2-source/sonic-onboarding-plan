@@ -5,7 +5,7 @@ This module generates realistic event latency data
 simulating what you'd see in the Sonic pipeline.
 """
 
-import numpy as np
+import numpy as np  
 
 
 def generate_latencies(n_events=1000, seed=42):
